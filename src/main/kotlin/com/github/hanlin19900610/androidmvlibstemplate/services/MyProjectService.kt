@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.hanlin19900610.androidmvlibstemplate.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hanlin19900610.androidmvlibstemplate.MyBundle
 
 class MyProjectService(project: Project) {
 
